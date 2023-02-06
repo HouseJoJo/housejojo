@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 🌎, I'm Josue Sandoval</h1>
 <h3 align="center">Dedicated programmer trying to make the world a more efficient place.</h3>
-<h3 align="center">I'm a goal oriented individual, I tend to work on multiple projects at a time!</h3>
+<h4 align="center">I'm a goal oriented individual, who tends to work on multiple projects at a time! I'm a very flexible person, most of my projects start with an idea/goal.</h4>
 
 - 🌱 I’m currently learning **GPT 3.0 API, Webscrapping, Interactive JavaScript!**
 
@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **josuesandoval02@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
