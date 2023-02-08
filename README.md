@@ -2,11 +2,14 @@
 <h3 align="center">Dedicated programmer trying to make the world a more efficient place.</h3>
 <h4 align="center">I'm a goal oriented individual, who tends to work on multiple projects at a time! I'm a very flexible person, most of my projects start with an idea/goal.</h4>
 
+- 🧑‍💻 Currently working on **Discord Bot implementation of GPT3.0**
+
 - 🌱 I’m currently learning **GPT 3.0 API, Webscrapping, Interactive JavaScript!**
 
 - 💬 Ask me about **AI and it's future**
 
 - 📫 How to reach me **josuesandoval02@gmail.com**
+
 
 <p align="left">
 </p>
