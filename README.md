@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **josuesandoval02@gmail.com**
 
-**Workflow tools:** Both of my machines run dual boot Windows 10/Ubuntu. Windows 10 for graphic design or Microsoft Suite use. Ubuntu for anything development related.
+**Workflow tools:** I am currently using an M1 MacBook Air, My home desktop is a dualboot machine running Ubuntu/Windows 10!
 
 I use Visual Studio Code for all of my projects. For organization/notes I use Google Keep, Obsidian, and Todoist.
 
