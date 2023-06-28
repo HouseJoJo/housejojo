@@ -2,9 +2,9 @@
 <h3 align="center">Dedicated programmer trying to make the world a more efficient place.</h3>
 <h4 align="center">I'm a goal oriented individual; I tend to work on multiple projects at a time! I'm a very flexible person, most of my projects start with an idea/goal.</h4>
 
-- 🧑‍💻 Currently working on **Building a Good JavaScript Foundation!**
+- 🧑‍💻 Currently working on **API Foundations!**
 
-- 🌱 I’m currently learning **GPT 3.0 API, Webscrapping, Interactive JavaScript!**
+- 🌱 I’m currently learning **OpenAI API, Webscrapping, and Data Analysis!**
 
 - 💬 Ask me about **AI and it's future**
 
